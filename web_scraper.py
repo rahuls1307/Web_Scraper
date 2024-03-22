@@ -14,6 +14,7 @@ import time
 import sqlite3
 import bs4 as bs
 
+
 def delta_date(start_date,end_date):
     """Function that returns the number of days between 2 dates """
 
